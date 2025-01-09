@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.hero-section {
+  background-image: url("https://www.shutterstock.com/image-photo/two-burgers-french-fries-juice-600nw-2156063321.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.card-title {
+  color: #ff6347;
+}
+footer a {
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
